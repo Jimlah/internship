@@ -1,0 +1,15 @@
+{
+    "name": "user/internship",
+    "description": "Testing autoloading",
+    "authors": [
+        {
+            "name": "Abdullahi Temidayo Jimoh",
+            "email": "46778885+Jimlah@users.noreply.github.com"
+        }
+    ]
+    
+    
+};
+"autoload" : {
+    "psr-4"
+}
