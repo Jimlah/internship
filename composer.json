@@ -6,10 +6,12 @@
             "name": "Abdullahi Temidayo Jimoh",
             "email": "46778885+Jimlah@users.noreply.github.com"
         }
-    ]
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "app\\" : "src/"
+        }
+    }
     
-    
-};
-"autoload" : {
-    "psr-4"
 }
+
